@@ -8,7 +8,7 @@ dj-rest-auth==1.1.0
 Django==3.2
 django-allauth==0.42.0
 djangorestframework==3.14.0
-drf-yasg==1.21.4
+drf-yasg==1.17.1
 idna==3.6
 inflection==0.5.1
 itypes==1.2.0
