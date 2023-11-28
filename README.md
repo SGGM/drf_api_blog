@@ -17,7 +17,6 @@ Simple Blog API made with DRF
   - [Installation](#installation)
   - [Usage](#usage)
   - [Endpoints](#endpoints)
-  - [Features](#features)
   - [License](#license)
   - [Author](#author)
 
@@ -56,11 +55,20 @@ Password: admin2
 
 ## Endpoints
 
+Examples of endpoints usage.
 
+```bash
+api/v1/ - shows list of all blogs, if method == GET
+api/v1/ - creates new blog, if method == POST
+api/v1/<int> - shows blog by id, if method == GET
+api/v1/<int> - changes blog by id, if method == PUT
+```
 
-## Features
-
-Documentation 
+Full set of endpoints could be seen in documentation.
+```bash
+swagger/
+redoc/
+```
 
 ## License
 
