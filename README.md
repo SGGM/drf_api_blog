@@ -1,8 +1,9 @@
 # Blog API
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-https://img.shields.io/pypi/pyversions/django
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/SGGM/drf_api_blog.svg)](https://github.com/SGGM/drf_api_blog/commits/master)
+
 
 ## Description
 
@@ -10,15 +11,45 @@ Simple Blog API made with DRF
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Features](#features)
-- [License](#license)
+- [Blog API](#blog-api)
+  - [Description](#description)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Endpoints](#endpoints)
+  - [Features](#features)
+  - [License](#license)
+  - [Author](#author)
+
 
 ## Installation
 
-Provide instructions on how to install your project.
+```bash
+git clone github.com/SGGM/drf_api_blog.git
+```
+
+## Usage
 
 ```bash
-pip install your-package-name
+docker-compose build
+docker-compose up
+```
+
+## Endpoints
+
+
+
+## Features
+
+Documentation 
+
+## License
+
+This project is under license from MIT. For more details, see the LICENSE file.
+
+## Author
+
+* GitHub: https://github.com/SGGM
+* Email: gleb_somov@mail.ru
+* LeetCode: https://leetcode.com/Arctic__Fox/
+* CodeWars: https://www.codewars.com/users/SGGM
