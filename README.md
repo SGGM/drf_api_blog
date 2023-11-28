@@ -1,7 +1,7 @@
 # Blog API
 
 [![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django))]
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Description
