@@ -34,7 +34,15 @@ git clone github.com/SGGM/drf_api_blog.git
 docker-compose build
 docker-compose up
 ```
+In order to start django project .env file is necessary.
+It should contain:
+```bash
+DJANGO_SECRET_KEY = "django-insecure-ag4krm^-0)3o&=g&oa^@l4x&0c6$s-q6&*hgs&&auf^-5%i!mz"
 
+DB_NAME = 'drf_blog_api_db'
+DB_USER = 'db_admin'
+DB_PASSWORD = 'db_password'
+```
 ## Endpoints
 
 
