@@ -57,7 +57,7 @@ Password: admin2
 
 Examples of endpoints usage.
 
-```bash
+```
 api/v1/ - shows list of all blogs, if method == GET
 api/v1/ - creates new blog, if method == POST
 api/v1/<int> - shows blog by id, if method == GET
