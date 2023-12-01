@@ -56,10 +56,3 @@ redoc/
 ## License
 
 This project is under license from MIT. For more details, see the LICENSE file.
-
-## Author
-
-* GitHub: https://github.com/SGGM
-* Email: gleb_somov@mail.ru
-* LeetCode: https://leetcode.com/Arctic__Fox/
-* CodeWars: https://www.codewars.com/users/SGGM
