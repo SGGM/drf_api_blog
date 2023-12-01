@@ -17,9 +17,6 @@ Simple Blog API made with DRF
   - [Installation](#installation)
   - [Usage](#usage)
   - [Endpoints](#endpoints)
-  - [License](#license)
-  - [Author](#author)
-
 
 ## Installation
 
@@ -52,7 +49,3 @@ Full set of endpoints could be seen in documentation.
 swagger/
 redoc/
 ```
-
-## License
-
-This project is under license from MIT. For more details, see the LICENSE file.
