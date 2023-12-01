@@ -46,13 +46,6 @@ docker-compose build
 docker-compose up
 ```
 
-There is an admin user, you can use.
-
-```bash
-Login: admin2
-Password: admin2
-```
-
 ## Endpoints
 
 Examples of endpoints usage.
