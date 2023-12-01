@@ -30,16 +30,6 @@ git clone github.com/SGGM/drf_api_blog.git
 ## Usage
 
 In order to start django project .env file should be put in the root folder.
-It should contain:
-```bash
-DJANGO_SECRET_KEY = "django-insecure-ag4krm^-0)3o&=g&oa^@l4x&0c6$s-q6&*hgs&&auf^-5%i!mz"
-
-DB_NAME = 'drf_blog_api_db'
-DB_USER = 'db_admin'
-DB_PASSWORD = 'db_password'
-```
-
-In order to create and start containers.
 
 ```bash
 docker-compose build
