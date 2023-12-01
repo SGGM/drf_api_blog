@@ -1,7 +1,6 @@
 # Blog API
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/django)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/SGGM/drf_api_blog.svg)](https://github.com/SGGM/drf_api_blog/commits/master)
 
 
